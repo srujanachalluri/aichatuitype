@@ -1,10 +1,35 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+<p align="center">
+  <a href="https://aichatuitype.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-6366f1?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/srujanachalluri/aichatuitype">
+    <img src="https://img.shields.io/github/stars/srujanachalluri/ai-interview-coach?style=for-the-badge&logo=github&color=fbbf24" alt="Stars"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/srujanachalluri/aichatuitype/fork">
+    <img src="https://img.shields.io/github/forks/srujanachalluri/ai-interview-coach?style=for-the-badge&logo=github&color=818cf8" alt="Forks"/>
+  </a>
+</p>
+
+
+<!-- Replace this with your actual screenshot after deployment -->
+<img src="public/chatui.png" alt="chatui" width="85%" />
+
+<br/>
+
+<img src="public/msg.png" alt="chatuimsg" width="85%" />
+
+<br/>
+
 ## Getting Started with Implementation
 
 First, run the development server:
 
 ```bash
+npm install
 npm run dev
 # or 
 yarn dev
@@ -34,3 +59,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## 👩‍💻 Author
+
+<div align="center">
+
+**Srujana Challuri** — Software Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-srujanachalluri-181717?style=flat-square&logo=github)](https://github.com/srujanachalluri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square)](https://master-portfolio-rho.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/srujanachalluri)
+
+</div>
+
+---
+
+## 📄 License
+
+MIT License — free to use for learning or your own portfolio.
+
